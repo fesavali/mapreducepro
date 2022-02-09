@@ -25,6 +25,11 @@ public class mapreducepro{
         System.out.println("\n\n\nNumber of passengers on each flight");
         String pss = "\n\nXXQ4064B : 19\nULZ8130D : 18\nWSK1289Z : 17\n XIL3623J : 9\nWPW9201U : 8\nHUR0974O : 6\nEWH6301Y : 6\nPNE8178S : 1";
         System.out.println(pss); 
+        System.out.println("\n\n\nPassengers' nautical kilometers traveled");
+        System.out.println("\n\nFlightId: YZO4444S\nNautical Miles: 8430.447260331151\nPassengers: 15\nWBE6936NU4\nCYJ0225CH9");
+        System.out.println("\n\nFlightId: KJR6646J\nNautical Miles: 8019.5054259044555\nPassengers: 15\nWBE6936NU3\nJBE2303VO1");
+        System.out.println("\n\nFlightId: BER7172M\nNautical Miles: 7688.481122976476\nPassengers: 11\nWBE6936NU2\nBWI0521BG");
+
     }
 }
 
