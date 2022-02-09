@@ -5,12 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch mapreducepro",
+            "request": "launch",
+            "mainClass": "mapreducepro.mapreducepro",
+            "projectName": "mapreducepro"
+        },
+        {
             "command": "npm start",
             "name": "Run npm start",
             "request": "launch",
             "type": "node-terminal"
         },
-      
         {
             "name": "Launch Edge",
             "request": "launch",
@@ -20,7 +26,6 @@
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
         },
-
         {
             "type": "java",
             "name": "Launch Java Program",
