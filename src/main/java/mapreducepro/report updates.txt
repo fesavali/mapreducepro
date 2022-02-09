@@ -1,0 +1,10 @@
+https://github.com/modymodymo/cloud_courswork
+a) A high-level description of the development of the prototype software.
+b) A simple description of the version control processes undertaken.
+c) A detailed description of the MapReduce functions you are replicating.
+d) The output format of any reports that each job produces.
+e) A self-appraisal of your (equivalent) MapReduce run-time software, with suggestions as
+to how it may be usefully improved upon. You may comment on any aspect of the
+development process.
+
+
